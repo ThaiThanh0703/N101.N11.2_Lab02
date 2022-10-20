@@ -1,0 +1,11 @@
+D:\UIT\năm-3\hk-5\An toàn mạng máy tính\TH\lab_2\Task\Task1\Task1\Task1\bin\Debug\Task1.exe.config
+D:\UIT\năm-3\hk-5\An toàn mạng máy tính\TH\lab_2\Task\Task1\Task1\Task1\bin\Debug\Task1.exe
+D:\UIT\năm-3\hk-5\An toàn mạng máy tính\TH\lab_2\Task\Task1\Task1\Task1\bin\Debug\Task1.pdb
+D:\UIT\năm-3\hk-5\An toàn mạng máy tính\TH\lab_2\Task\Task1\Task1\Task1\obj\Debug\Lab02.csproj.AssemblyReference.cache
+D:\UIT\năm-3\hk-5\An toàn mạng máy tính\TH\lab_2\Task\Task1\Task1\Task1\obj\Debug\Lab02.csproj.SuggestedBindingRedirects.cache
+D:\UIT\năm-3\hk-5\An toàn mạng máy tính\TH\lab_2\Task\Task1\Task1\Task1\obj\Debug\Task1.Properties.Resources.resources
+D:\UIT\năm-3\hk-5\An toàn mạng máy tính\TH\lab_2\Task\Task1\Task1\Task1\obj\Debug\Task1.Task1.resources
+D:\UIT\năm-3\hk-5\An toàn mạng máy tính\TH\lab_2\Task\Task1\Task1\Task1\obj\Debug\Lab02.csproj.GenerateResource.cache
+D:\UIT\năm-3\hk-5\An toàn mạng máy tính\TH\lab_2\Task\Task1\Task1\Task1\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+D:\UIT\năm-3\hk-5\An toàn mạng máy tính\TH\lab_2\Task\Task1\Task1\Task1\obj\Debug\Task1.exe
+D:\UIT\năm-3\hk-5\An toàn mạng máy tính\TH\lab_2\Task\Task1\Task1\Task1\obj\Debug\Task1.pdb
